@@ -28,15 +28,9 @@ I later moved into technical writing, where I worked with engineering, product, 
 * AI and linguistic evaluation
 * Business analysis and requirements
 
-### Selected work
+### Projects
 
-📚 **[User Assistance Portfolio](../user-assistance-angela)**
-
-Selected examples of user assistance and technical communication.
-
-☁️ **[Technical Writing Examples](../cloudflare)**
-
-Selected technical writing and documentation examples.
+🚧 Building a small portfolio of projects focused on AI documentation, APIs, and language technology.
 
 ### Tools & technologies
 
@@ -45,7 +39,5 @@ Selected technical writing and documentation examples.
 ### More about me
 
 🌐 [Portfolio](https://angelampc.carrd.co/)
-
 💼 [LinkedIn](https://www.linkedin.com/in/ângela-costa-27855021)
-
 📚 [ResearchGate](https://www.researchgate.net/profile/Angela-Costa-5/)
