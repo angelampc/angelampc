@@ -30,7 +30,7 @@ I later moved into technical writing, where I worked with engineering, product, 
 
 ### Projects
 
-🚧 Building a small portfolio of projects focused on AI documentation, APIs, and language technology.
+[Customer Support API — Documentation Demo](https://github.com/angelampc/api-documentation-demo)
 
 ### Tools & technologies
 
