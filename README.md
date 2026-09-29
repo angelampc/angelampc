@@ -30,7 +30,8 @@ I later moved into technical writing, where I worked with engineering, product, 
 
 ### Projects
 
-[Customer Support API — Documentation Demo](https://github.com/angelampc/api-documentation-demo)
+* 📚 [Customer Support API — Documentation Demo](https://github.com/angelampcosta/api-documentation-demo)
+  A fictional REST API documentation project demonstrating developer documentation, API reference, authentication, quickstart, and troubleshooting.
 
 ### Tools & technologies
 
@@ -39,7 +40,5 @@ I later moved into technical writing, where I worked with engineering, product, 
 ### More about me
 
 🌐 [Portfolio](https://angelampc.carrd.co/)
-
 💼 [LinkedIn](https://www.linkedin.com/in/ângela-costa-27855021)
-
 📚 [ResearchGate](https://www.researchgate.net/profile/Angela-Costa-5/)
