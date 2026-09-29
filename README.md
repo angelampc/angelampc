@@ -35,7 +35,7 @@ I later moved into technical writing, where I worked with engineering, product, 
 
 ### Tools & technologies
 
-`Git` `GitHub` `Markdown` `OpenAPI` `Hugo` `VS Code` `Python` `APIs` `LLMs`
+`Git` `GitHub` `Markdown` `Hugo` `VS Code` `APIs` `Docs-as-code`
 
 ### More about me
 
