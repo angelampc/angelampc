@@ -46,6 +46,6 @@ Selected technical writing and documentation examples.
 
 🌐 [Portfolio](https://angelampc.carrd.co/)
 
-💼 [LinkedIn](www.linkedin.com/in/ângela-costa-27855021)
+💼 [LinkedIn](https://www.linkedin.com/in/ângela-costa-27855021)
 
 📚 [ResearchGate](https://www.researchgate.net/profile/Angela-Costa-5/)
