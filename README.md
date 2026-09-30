@@ -20,6 +20,25 @@ Before moving into technical writing, I worked in language technology and NLP, i
 
 I later moved into technical writing, where I worked with engineering, product, and support teams to document complex software products and turn technical information and recurring user problems into clear, usable documentation.
 
+### Cloudflare documentation contributions
+
+Contributed extensively to Cloudflare’s open-source developer documentation over nearly five years, collaborating with engineering, product, and support teams through GitHub-based documentation workflows.
+
+* **Developer & API documentation** — created and maintained technical documentation, API references, guides, troubleshooting content, and product documentation.
+* **Logs & observability** — owned documentation for Cloudflare Logs and contributed to documentation across logging, analytics, and Workers workflows.
+* **Caching & web performance** — contributed to documentation for Cache and related performance features.
+* **Data localization & compliance** — owned documentation for the Data Localization Suite, covering data localization and data residency.
+* **Open-source documentation** — contributed through GitHub pull requests, reviews, issue resolution, and ongoing documentation maintenance.
+
+**Selected public contributions**
+
+* [Cloudflare Docs — Data Localization Suite](https://github.com/cloudflare/cloudflare-docs/pull/7393)
+* [Cloudflare Docs — Waiting Room](https://github.com/cloudflare/cloudflare-docs/pull/3755)
+* [Cloudflare Docs — Logs Explorer](https://github.com/cloudflare/cloudflare-docs/pull/13312)
+* [Cloudflare Docs - Speed test](https://github.com/cloudflare/cloudflare-docs/pull/7669)
+* [Cloudflare Docs - Cache Reserve](https://github.com/cloudflare/cloudflare-docs/pull/4753)
+* [Cloudflare Docs - Load Balancing](https://github.com/cloudflare/cloudflare-docs/pull/12811)
+
 ### Currently exploring
 
 * AI and LLM documentation
