@@ -29,7 +29,7 @@ Contributed extensively to Cloudflare’s open-source developer documentation ov
 
 * **Information Architecture & Content Redesign (Logs & Cache)**
   * **Logs:** Owned documentation for [Logs](https://developers.cloudflare.com/logs/); redesigned content structure to match real developer workflows, driving **higher engagement with API example pages**.
-  * **Cache:** Re-architected [Cache documentation](https://developers.cloudflare.com/cache/ and created a widely visited cache status reference page. Integrated direct links from the dashboard UI to docs, **improving task success rates by 25%**.
+  * **Cache:** Re-architected [Cache documentation](https://developers.cloudflare.com/cache/) and created a widely visited cache status reference page. Integrated direct links from the dashboard UI to docs, **improving task success rates by 25%**.
 
 * **Troubleshooting & Support Collaboration (HTTP Status Codes)**
   * Consolidated fragmented troubleshooting content into a unified [HTTP status codes pages](https://developers.cloudflare.com/support/troubleshooting/http-status-codes/), partnering with Support to target high-volume ticket areas.
