@@ -24,12 +24,30 @@ I later moved into technical writing, where I worked with engineering, product, 
 
 Contributed extensively to Cloudflare’s open-source developer documentation over nearly five years, collaborating with engineering, product, and support teams through GitHub-based documentation workflows.
 
-* **Developer & API documentation** — created and maintained technical documentation, API references, guides, troubleshooting content, and product documentation.
-* **Logs & observability** — owned documentation for Cloudflare Logs and contributed to documentation across logging, analytics, and Workers workflows.
-* **Caching & web performance** — contributed to documentation for Cache and related performance features.
-* **Data localization & compliance** — owned documentation for the Data Localization Suite, covering data localization and data residency.
-* **Open-source documentation** — contributed through GitHub pull requests, reviews, issue resolution, and ongoing documentation maintenance.
+### 🌐 Cloudflare Documentation Contributions
 
+Contributed extensively to Cloudflare’s open-source developer documentation over nearly five years, collaborating with engineering, product, and support teams through GitHub-based documentation workflows.
+
+* **Developer & API Documentation**
+  * Created and maintained technical documentation, API references, quickstarts, and troubleshooting guides across fast-paced product releases.
+
+* **Information Architecture & Content Redesign (Logs & Cache)**
+  * **Logs:** Owned documentation for [Logs](https://developers.cloudflare.com/logs/); redesigned content structure to match real developer workflows, driving **higher engagement with API example pages**.
+  * **Cache:** Re-architected [Cache documentation](https://developers.cloudflare.com/cache/ and created a widely visited cache status reference page. Integrated direct links from the dashboard UI to docs, **improving task success rates by 25%**.
+
+* **Troubleshooting & Support Collaboration (HTTP Status Codes)**
+  * Consolidated fragmented troubleshooting content into a unified [HTTP status codes pages](https://developers.cloudflare.com/support/troubleshooting/http-status-codes/), partnering with Support to target high-volume ticket areas.
+  * **Impact:** Elevated search rankings for critical error codes (e.g., 522, 524), driving higher self-service resolution.
+
+* **Documentation Strategy & Governance**
+  * Contributed to the central [Style Guide](https://developers.cloudflare.com/style-guide/), establishing consistent documentation standards and minimalist writing practices across engineering teams.
+
+* **Data Localization & Compliance**
+-   * Owned documentation for the [Data Localization Suite](https://developers.cloudflare.com/data-localization/), covering complex data localization and data residency requirements.
+
+* **Open-Source & GitHub Workflows**
+  * Maintained high-quality docs through GitHub pull requests, code reviews, issue resolution, and CI/CD documentation pipelines.
+ 
 **Selected public contributions**
 
 * [Cloudflare Docs — Data Localization Suite](https://github.com/cloudflare/cloudflare-docs/pull/7393)
