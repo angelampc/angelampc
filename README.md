@@ -55,12 +55,11 @@ Contributed extensively to Cloudflare’s open-source developer documentation ov
 
 ### Currently exploring
 
-* AI and LLM documentation
-* Documentation engineering
-* API documentation and developer experience
-* AI and linguistic evaluation
-* Business analysis and requirements
-
+* **AI and LLM Documentation** — Investigating best practices for documenting model interfaces, prompts, and AI integrations.
+* **AI Video Generation & Visual Content** — Testing AI video tools to create quick-start visual guides.
+* **AI and Linguistic Evaluation** — Exploring quality frameworks, tone consistency, and editorial accuracy for AI content.
+* **Business Analysis & Requirements** — Bridging product specs, user personas, and technical requirements into content strategy.
+  
 ### Projects
 
 * 📚 [Customer Support API — Documentation Demo](https://github.com/angelampcosta/api-documentation-demo)
