@@ -24,10 +24,6 @@ I later moved into technical writing, where I worked with engineering, product, 
 
 Contributed extensively to Cloudflare’s open-source developer documentation over nearly five years, collaborating with engineering, product, and support teams through GitHub-based documentation workflows.
 
-### 🌐 Cloudflare Documentation Contributions
-
-Contributed extensively to Cloudflare’s open-source developer documentation over nearly five years, collaborating with engineering, product, and support teams through GitHub-based documentation workflows.
-
 * **Developer & API Documentation**
   * Created and maintained technical documentation, API references, quickstarts, and troubleshooting guides across fast-paced product releases.
 
