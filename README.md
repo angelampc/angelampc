@@ -62,7 +62,7 @@ Contributed extensively to Cloudflare’s open-source developer documentation ov
   
 ### Projects
 
-* 📚 [Customer Support API — Documentation Demo](https://github.com/angelampcosta/api-documentation-demo)
+* 📚 [Customer Support API — Documentation Demo](https://github.com/angelampc/api-documentation-demo)
   A fictional REST API documentation project demonstrating developer documentation, API reference, authentication, quickstart, and troubleshooting.
 
 ### Tools & technologies
